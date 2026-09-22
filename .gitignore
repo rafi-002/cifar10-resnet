@@ -2,3 +2,6 @@ data/
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+build_report.py
+CIFAR10_Assignment_Report.pdf
+presentation_script.md
